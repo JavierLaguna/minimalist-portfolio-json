@@ -3,8 +3,8 @@
     "name": "Javier Laguna",
     "label": "Senior Mobile Developer",
     "image": "/me.webp",
-    "email": "",
-    "phone": "+34",
+    "email": "jlaguna.dev@gmail.com",
+    "phone": "",
     "url": "https://github.com/JavierLaguna",
     "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
     "location": {
@@ -36,8 +36,8 @@
     {
       "name": "InnoCV Solutions",
       "position": "Senior Mobile Developer",
-      "url": "",
-      "startDate": "2021-01-01",
+      "url": "https://www.innocv.com/",
+      "startDate": "2020-01-08",
       "endDate": null,
       "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
       "highlights": [
@@ -100,31 +100,38 @@
   }],
   "skills": [
     {
-      "name": "HTML",
+      "name": "Swift",
       "level": "Master",
+      "keywords": [
+        "Desarrollo iOS", "VisionOS", "WatchOS"
+      ]
+    },
+    {
+      "name": "Kotlin",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Android", "KMM"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
@@ -132,20 +139,6 @@
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     },
     {
@@ -160,13 +153,6 @@
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
@@ -210,27 +196,6 @@
       "url": "https://mars.codes"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
       "name": "codi.link",
       "isActive": true,
       "description": "Playground de código HTML, CSS y JavaScript para compartir",
@@ -240,26 +205,6 @@
       ],
       "url": "https://codi.link",
       "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
     }
   ]
 }
