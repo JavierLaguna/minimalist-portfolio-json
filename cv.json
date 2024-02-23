@@ -34,25 +34,48 @@
   },
   "work": [
     {
-      "name": "InnoCV Solutions",
+      "name": "INNOCV Solutions",
       "position": "Senior Mobile Developer",
       "url": "https://www.innocv.com/",
-      "startDate": "2020-01-08",
+      "startDate": "2020-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrollador Senior de iOS y React Native en INNOCV Solutions, trabajando en proyectos de desarrollo móvil.",
+      "highlights": []
+    },
+    {
+      "name": "MMG",
+      "position": "iOS Developer",
+      "url": null,
+      "startDate": "2018-10-01",
+      "endDate": "2020-01-01",
+      "summary": "Desarrollador de aplicaciones móviles iOS en MMG, centrado en proyectos de mensajería y sector sanitario, incluyendo la aplicación MedsBla.",
       "highlights": [
-        "Started the company"
+        "Desarrollo de la aplicación MedsBla (https://apps.apple.com/es/app/medsbla-messenger-m%C3%A9dico/id1190503917)",
+        "Utilización de Swift, iOS 12, CocoaPods y Realm en el desarrollo de aplicaciones móviles."
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "MMG",
+      "position": "Senior Frontend Developer",
+      "url": null,
+      "startDate": "2017-08-01",
+      "endDate": "2018-10-01",
+      "summary": "Desarrollador Frontend Senior en MMG, enfocado en aplicaciones web para el sector sanitario, incluyendo MedsBla y Dashboard MedsBla.",
       "highlights": [
-        "Started the company"
+        "Desarrollo de aplicaciones web para el sector sanitario, incluyendo MedsBla y Dashboard MedsBla (https://mmg-ai.com/es/soluciones-de-medicina/)",
+        "Utilización de JavaScript (ReactJs, Redux, ES6/7, Webpack, Jest, FlowJs, NodeJs, lodash, Axios), HTML5, CSS3 (SASS, PostCss, BEM, Responsive), GraphQL, entre otros."
+      ]
+    },
+    {
+      "name": "Optimissa",
+      "position": "Desarrollador de front-end",
+      "url": null,
+      "startDate": "2015-02-01",
+      "endDate": "2017-08-01",
+      "summary": "Desarrollador y maquetador Front-End en Optimissa, Capital Markets Consulting, trabajando en aplicaciones web bancarias como 2Trade.",
+      "highlights": [
+        "Desarrollo de aplicaciones web bancarias, incluyendo 2Trade (http://www.optimissa.com.mx/es/products/2trade/)",
+        "Utilización de HTML5, CSS3 (Bootstrap, BEM, Responsive), JavaScript (ReactJs, Redux, LESS, ES6, Webpack, NodeJs, ImmutableJs, Backbone, Marionette, lodash, JQuery, AJAX), entre otros."
       ]
     }
   ],
