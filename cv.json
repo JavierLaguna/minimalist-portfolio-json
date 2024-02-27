@@ -85,21 +85,21 @@
     {
       "institution": "Lázaro Cárdenas",
       "url": null,
-      "area": "Técnico Superior en Administración de Sistemas Informáticos en Red, Administración de Sistemas Informáticos en Red",
+      "area": "Técnico Superior en Administración de Sistemas Informáticos en Red",
       "studyType": "Técnico Superior",
       "startDate": "2012-01-01",
       "endDate": "2014-01-01",
-      "score": null,
+      "score": "8.86",
       "courses": []
     },
     {
       "institution": "María de Zayas y SotoMayor",
       "url": null,
-      "area": "Técnico Superior en Desarrollo de Aplicaciones Informáticas, Desarrollo de Aplicaciones Informáticas",
+      "area": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
       "studyType": "Técnico Superior",
       "startDate": "2010-01-01",
       "endDate": "2012-01-01",
-      "score": null,
+      "score": "8",
       "courses": []
     }
   ],
