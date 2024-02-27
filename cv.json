@@ -35,7 +35,7 @@
   "work": [
     {
       "name": "INNOCV Solutions",
-      "position": "Senior Mobile Developer",
+      "position": "iOS && React Native Senior Developer",
       "url": "https://www.innocv.com/",
       "startDate": "2020-01-01",
       "endDate": null,
@@ -45,38 +45,29 @@
     {
       "name": "MMG",
       "position": "iOS Developer",
-      "url": null,
+      "url": "https://mmg-ai.com/",
       "startDate": "2018-10-01",
       "endDate": "2020-01-01",
-      "summary": "Desarrollador de aplicaciones móviles iOS en MMG, centrado en proyectos de mensajería y sector sanitario, incluyendo la aplicación MedsBla.",
-      "highlights": [
-        "Desarrollo de la aplicación MedsBla (https://apps.apple.com/es/app/medsbla-messenger-m%C3%A9dico/id1190503917)",
-        "Utilización de Swift, iOS 12, CocoaPods y Realm en el desarrollo de aplicaciones móviles."
-      ]
+      "summary": "Desarrollador de aplicaciones móviles iOS en MMG, centrado en proyectos de mensajería y sector sanitario, incluyendo la aplicación MedsBla. Utilización de Swift, iOS 12, CocoaPods y Realm en el desarrollo de aplicaciones móviles.",
+      "highlights": []
     },
     {
       "name": "MMG",
       "position": "Senior Frontend Developer",
-      "url": null,
+      "url": "https://mmg-ai.com/",
       "startDate": "2017-08-01",
       "endDate": "2018-10-01",
-      "summary": "Desarrollador Frontend Senior en MMG, enfocado en aplicaciones web para el sector sanitario, incluyendo MedsBla y Dashboard MedsBla.",
-      "highlights": [
-        "Desarrollo de aplicaciones web para el sector sanitario, incluyendo MedsBla y Dashboard MedsBla (https://mmg-ai.com/es/soluciones-de-medicina/)",
-        "Utilización de JavaScript (ReactJs, Redux, ES6/7, Webpack, Jest, FlowJs, NodeJs, lodash, Axios), HTML5, CSS3 (SASS, PostCss, BEM, Responsive), GraphQL, entre otros."
-      ]
+      "summary": "Desarrollador Frontend Senior en MMG, enfocado en aplicaciones web para el sector sanitario, incluyendo MedsBla y Dashboard MedsBla. Utilización de JavaScript (ReactJs, Redux, ES6/7, Webpack, Jest, FlowJs, NodeJs, lodash, Axios), HTML5, CSS3 (SASS, PostCss, BEM, Responsive), GraphQL, entre otros.",
+      "highlights": []
     },
     {
       "name": "Optimissa",
-      "position": "Desarrollador de front-end",
-      "url": null,
+      "position": "Frontend Developer",
+      "url": "https://www.optimissa.com/",
       "startDate": "2015-02-01",
       "endDate": "2017-08-01",
-      "summary": "Desarrollador y maquetador Front-End en Optimissa, Capital Markets Consulting, trabajando en aplicaciones web bancarias como 2Trade.",
-      "highlights": [
-        "Desarrollo de aplicaciones web bancarias, incluyendo 2Trade (http://www.optimissa.com.mx/es/products/2trade/)",
-        "Utilización de HTML5, CSS3 (Bootstrap, BEM, Responsive), JavaScript (ReactJs, Redux, LESS, ES6, Webpack, NodeJs, ImmutableJs, Backbone, Marionette, lodash, JQuery, AJAX), entre otros."
-      ]
+      "summary": "Desarrollador y maquetador Frontend en Optimissa, Capital Markets Consulting, trabajando en aplicaciones web bancarias como 2Trade. Utilización de HTML5, CSS3 (Bootstrap, BEM, Responsive), JavaScript (ReactJs, Redux, LESS, ES6, Webpack, NodeJs, ImmutableJs, Backbone, Marionette, lodash, JQuery, AJAX), entre otros.",
+      "highlights": []
     }
   ],
   "volunteer": [{
