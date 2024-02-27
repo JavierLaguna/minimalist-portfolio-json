@@ -131,38 +131,17 @@
       ]
     },
     {
+      "name": "SwiftUI",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo iOS", "VisionOS", "WatchOS"
+      ]
+    },
+    {
       "name": "Kotlin",
       "level": "Medio",
       "keywords": [
         "Desarrollo Android", "KMM"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
@@ -180,10 +159,52 @@
       ]
     },
     {
+      "name": "Flutter",
+      "level": "Medio",
+      "keywords": [
+        "Desarrollo Mobile"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "ReactNative",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Mobile"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     }
   ],
