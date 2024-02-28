@@ -265,6 +265,17 @@
       ],
       "url": "https://github.com/JavierLaguna/SpaceX-Flutter-Odyssey",
       "github": "https://github.com/JavierLaguna/SpaceX-Flutter-Odyssey"
+    },
+    {
+      "name": "Slot Machine",
+      "isActive": false,
+      "description": "Little iOS, iPad and Mac game for learn SwiftUI and MVVM.",
+      "highlights": [
+        "SwiftUI",
+        "MVVM"
+      ],
+      "url": "https://github.com/JavierLaguna/Slot-Machine",
+      "github": "https://github.com/JavierLaguna/Slot-Machine"
     }
   ]
 }
