@@ -252,6 +252,19 @@
       ],
       "url": "https://github.com/JavierLaguna/Composable-SwiftUI",
       "github": "https://github.com/JavierLaguna/Composable-SwiftUI"
+    },
+    {
+      "name": "SpaceX Flutter Odyssey",
+      "isActive": false,
+      "description": "Little iOS and Android client for consume SpaceX API",
+      "highlights": [
+        "SpaceX",
+        "Flutter",
+        "Dart",
+        "GetX"
+      ],
+      "url": "https://github.com/JavierLaguna/SpaceX-Flutter-Odyssey",
+      "github": "https://github.com/JavierLaguna/SpaceX-Flutter-Odyssey"
     }
   ]
 }
