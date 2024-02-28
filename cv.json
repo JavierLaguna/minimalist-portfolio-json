@@ -230,26 +230,26 @@
     "reference": "Reference…"
   }],
   "projects": [
-    {
-      "name": "mars.codes",
-      "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    }
+    // {
+    //   "name": "mars.codes",
+    //   "isActive": true,
+    //   "description": "Historia interactiva con retos de programación para viajar a Marte",
+    //   "highlights": [
+    //     "Elige tu propia aventura",
+    //     "En desarrollo"
+    //   ],
+    //   "url": "https://mars.codes"
+    // },
+    // {
+    //   "name": "codi.link",
+    //   "isActive": true,
+    //   "description": "Playground de código HTML, CSS y JavaScript para compartir",
+    //   "highlights": [
+    //     "100k visitas al mes",
+    //     "Desarrollado por la comunidad"
+    //   ],
+    //   "url": "https://codi.link",
+    //   "github": "https://github.com/midudev/codi.link"
+    // }
   ]
 }
