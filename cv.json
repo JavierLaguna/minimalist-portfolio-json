@@ -289,6 +289,16 @@
       ],
       "url": "https://github.com/JavierLaguna/Kamikaze-War",
       "github": "https://github.com/JavierLaguna/Kamikaze-War"
+    },
+    {
+      "name": "Flynn and Freckles",
+      "isActive": false,
+      "description": "React web for Flynn and Freckles game from Rookie Hero Games",
+      "highlights": [
+        "React 15",
+        "Rookie Hero Games"
+      ],
+      "url": "https://flynn-and-freckles.vercel.app/"
     }
   ]
 }
