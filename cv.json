@@ -276,6 +276,19 @@
       ],
       "url": "https://github.com/JavierLaguna/Slot-Machine",
       "github": "https://github.com/JavierLaguna/Slot-Machine"
+    },
+    {
+      "name": "Kamikaze War",
+      "isActive": false,
+      "description": "ARKit airplane destroyer game.",
+      "highlights": [
+        "ARKit",
+        "Swift",
+        "MVVM",
+        "Coordinators"
+      ],
+      "url": "https://github.com/JavierLaguna/Kamikaze-War",
+      "github": "https://github.com/JavierLaguna/Kamikaze-War"
     }
   ]
 }
