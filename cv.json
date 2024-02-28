@@ -240,6 +240,18 @@
       ],
       "url": "https://github.com/JavierLaguna/VisionOSMusic",
       "github": "https://github.com/JavierLaguna/VisionOSMusic"
+    },
+    {
+      "name": "Composable SwiftUI",
+      "isActive": true,
+      "description": "Project used for learn SwiftUI + TCA architecture",
+      "highlights": [
+        "Rick and Morty",
+        "SwiftUI",
+        "TCA Architecture"
+      ],
+      "url": "https://github.com/JavierLaguna/Composable-SwiftUI",
+      "github": "https://github.com/JavierLaguna/Composable-SwiftUI"
     }
   ]
 }
