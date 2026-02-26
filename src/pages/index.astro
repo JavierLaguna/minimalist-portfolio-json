@@ -8,6 +8,7 @@ import Hero from "@/components/sections/Hero.astro";
 import Projects from "@/components/sections/Projects.astro";
 import Skills from "@/components/sections/Skills.astro";
 import KeyboardManager from "@/components/KeyboardManager.astro";
+import SpeedInsights from "@vercel/speed-insights/astro";
 
 import { setLanguage, getCV } from "@/i18n/config";
 import LangPicker from "@/i18n/LangPicker.astro";
@@ -19,7 +20,8 @@ const { getTranslation: t } = setLanguage(locale);
 ---
 
 <Layout title={t("index.title", { name, label })}>
- <SpeedInsights />
+  <SpeedInsights />
+
   <main>
     <LangPicker />
     <Hero />
