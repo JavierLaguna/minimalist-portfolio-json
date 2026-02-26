@@ -6,7 +6,7 @@
     "email": "jlaguna.dev@gmail.com",
     "phone": "",
     "url": "https://github.com/JavierLaguna",
-    "summary": "+9 years of experience in mobile and web frontend development! I am always looking for new opportunities to learn and apply innovative technologies in my projects. I have training in Network Systems Administration and Application Development. I hold certifications in SwiftUI, Combine, Full Stack Mobile, Advanced Kotlin, and a Nanodegree in React, Redux, and React-Native.",
+    "summary": "+10 years of experience building high-quality mobile and web applications. Specialized in iOS (Swift, SwiftUI, UIKit) and React Native, with a strong background in modern frontend development. Driven to craft robust, scalable, and thoughtfully designed products, contributing value both technically and collaboratively within teams. Accustomed to working in agile environments with a strong emphasis on quality, performance, and user experience.",
     "location": {
       "address": "",
       "postalCode": "28200",
@@ -35,11 +35,11 @@
   "work": [
     {
       "name": "INNOCV Solutions",
-      "position": "iOS && React Native Senior Developer",
+      "position": "Senior Mobile Developer (iOS && React Native)",
       "url": "https://www.innocv.com/",
       "startDate": "2020-01-01",
       "endDate": null,
-      "summary": "Senior iOS and React Native Developer at INNOCV Solutions, working on mobile development projects.",
+      "summary": "Development of scalable mobile applications serving thousands of users across diverse industries, including high-traffic banking platforms, restaurant services, travel insurance, time-tracking systems, and device insurance solutions. Applied Clean Architecture principles while collaborating closely with product and backend teams to deliver high-impact solutions. This includes the development and maintenance of mobile applications in iOS and React Native, as well as the implementation and evolution of Clean Architecture and SOLID principles through approaches such as TCA, VIPER, MVVM, ... Close collaboration with product, QA, and backend teams in agile environments, driving continuous improvements in performance, stability, and overall application quality, alongside active participation in technical decision-making, code reviews, and the establishment of best practices.",
       "highlights": []
     },
     {
@@ -48,7 +48,7 @@
       "url": "https://mmg-ai.com/",
       "startDate": "2018-10-01",
       "endDate": "2020-01-01",
-      "summary": "iOS Mobile Applications Developer at MMG, focusing on messaging and healthcare projects, including the MedsBla application. Utilization of Swift, iOS 12, CocoaPods, and Realm in mobile application development.",
+      "summary": "iOS Mobile Application Developer at MMG, focused on messaging and healthcare sector projects, including the MedsBla application. Utilized Swift, iOS 12, CocoaPods, and Realm in the development of mobile applications.",
       "highlights": []
     },
     {
@@ -57,7 +57,7 @@
       "url": "https://mmg-ai.com/",
       "startDate": "2017-08-01",
       "endDate": "2018-10-01",
-      "summary": "Senior Frontend Developer at MMG, focused on web applications for the healthcare sector, including MedsBla and Dashboard MedsBla. Utilization of JavaScript (ReactJs, Redux, ES6/7, Webpack, Jest, FlowJs, NodeJs, lodash, Axios), HTML5, CSS3 (SASS, PostCss, BEM, Responsive), GraphQL, among others.",
+      "summary": "Senior Frontend Developer at MMG, focused on web applications for the healthcare sector, including MedsBla and the MedsBla Dashboard. Employed JavaScript technologies such as ReactJS, Redux, ES6/7, Webpack, Jest, Flow, Node.js, Lodash, and Axios, along with HTML5 and CSS3 (SASS, PostCSS, BEM, responsive design), as well as GraphQL, among other tools.",
       "highlights": []
     },
     {
@@ -66,7 +66,7 @@
       "url": "https://www.optimissa.com/",
       "startDate": "2015-02-01",
       "endDate": "2017-08-01",
-      "summary": "Frontend Developer and Layout Designer at Optimissa, working on banking web applications like 2Trade. Utilization of HTML5, CSS3 (Bootstrap, BEM, Responsive), JavaScript (ReactJs, Redux, LESS, ES6, Webpack, NodeJs, ImmutableJs, Backbone, Marionette, lodash, JQuery, AJAX), among others.",
+      "summary": "Frontend Developer and UI Engineer at Optimissa, contributing to banking web applications such as 2Trade. Leveraged HTML5 and CSS3 (Bootstrap, BEM, responsive design), along with JavaScript technologies including ReactJS, Redux, LESS, ES6, Webpack, Node.js, Immutable.js, Backbone, Marionette, Lodash, jQuery, and AJAX, among others.",
       "highlights": []
     }
   ],
@@ -83,10 +83,80 @@
   }],
   "education": [
     {
+      "institution": "DevExpert.io - Android & Kotlin Training",
+      "url": null,
+      "area": "Kotlin Expert",
+      "studyType": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Udemy",
+      "url": null,
+      "area": "Mastering ARKit for iOS",
+      "studyType": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Udemy",
+      "url": null,
+      "area": "SwiftUI Masterclass 2023 - iOS App Development & Swift",
+      "studyType": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Udemy",
+      "url": null,
+      "area": "Combine",
+      "studyType": "",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "KeepCoding",
+      "url": null,
+      "area": "Full Stack Mobile",
+      "studyType": "",
+      "startDate": "2020-01-01",
+      "endDate": "2020-01-01",
+      "score": "9",
+      "courses": []
+    },
+    {
+      "institution": "KeepCoding",
+      "url": null,
+      "area": "Advanced Kotlin",
+      "studyType": "",
+      "startDate": "2019-01-01",
+      "endDate": "2019-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Udacity",
+      "url": null,
+      "area": "React, Redux, React-Native Nanodegree",
+      "studyType": "Nanodegree",
+      "startDate": "2017-01-01",
+      "endDate": "2017-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
       "institution": "Lázaro Cárdenas",
       "url": null,
-      "area": "Higher Technician in Network Systems Administration",
-      "studyType": "Higher Technician",
+      "area": "Advanced Technical Degree in Network Systems Administration",
+      "studyType": "Técnico Superior",
       "startDate": "2012-01-01",
       "endDate": "2014-01-01",
       "score": "8.86",
@@ -95,8 +165,8 @@
     {
       "institution": "María de Zayas y SotoMayor",
       "url": null,
-      "area": "Higher Technician in Application Development",
-      "studyType": "Higher Technician",
+      "area": "Advanced Technical Degree in Application Development",
+      "studyType": "Técnico Superior",
       "startDate": "2010-01-01",
       "endDate": "2012-01-01",
       "score": "8",

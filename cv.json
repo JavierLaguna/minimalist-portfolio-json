@@ -6,7 +6,7 @@
     "email": "jlaguna.dev@gmail.com",
     "phone": "",
     "url": "https://github.com/JavierLaguna",
-    "summary": "+10 años de experiencia en desarrollo móvil y frontend web! Siempre estoy en busca de nuevas oportunidades para aprender y aplicar tecnologías innovadoras en mis proyectos. Tengo formación en Administración de Sistemas Informáticos en Red y Desarrollo de Aplicaciones Informáticas. Poseo certificaciones en SwiftUI, Combine, Full Stack Mobile, Kotlin Avanzado y un Nanodegree en React, Redux y React-Native.",
+    "summary": "+10 años de experiencia construyendo aplicaciones móviles y web de alta calidad. Especializado en iOS (Swift, SwiftUI, UIKit) y React Native, con fuerte background en frontend moderno. Me motiva crear productos sólidos, escalables y bien diseñados, y aportar valor tanto a nivel técnico como de equipo. Acostumbrado a trabajar en entornos ágiles y con foco en calidad, rendimiento y experiencia de usuario.",
     "location": {
       "address": "",
       "postalCode": "28200",
@@ -35,11 +35,11 @@
   "work": [
     {
       "name": "INNOCV Solutions",
-      "position": "iOS && React Native Senior Developer",
+      "position": "Senior Mobile Developer (iOS && React Native)",
       "url": "https://www.innocv.com/",
       "startDate": "2020-01-01",
       "endDate": null,
-      "summary": "Desarrollador Senior de iOS y React Native en INNOCV Solutions, trabajando en proyectos de desarrollo móvil.",
+      "summary": "Desarrollo de aplicaciones móviles escalables usadas por miles de usuarios en proyectos de distintos sectores, incluyendo apps bancarias con alto volumen de clientes, restauración, seguros de viaje, control horario y seguros para dispositivos electrónicos, aplicando principios de Clean Architecture y colaborando estrechamente con equipos de producto y backend para entregar soluciones de alto impacto. Esto incluye desarrollo y mantenimiento de aplicaciones móviles en iOS y React Native, implementación y mantenimiento de Clean Architecture y principios SOLID utilizando enfoques como TCA, VIPER, MVVM, ... Colaboración con equipos de producto, QA y backend en entornos ágiles, mejora continua del rendimiento, estabilidad y calidad de las aplicaciones, y participación activa en decisiones técnicas, code reviews y definición de buenas prácticas.",
       "highlights": []
     },
     {
@@ -82,6 +82,76 @@
     ]
   }],
   "education": [
+    {
+      "institution": "DevExpert.io - Android & Kotlin Training",
+      "url": null,
+      "area": "Kotlin Expert",
+      "studyType": "",
+      "startDate": "2025-01-01",
+      "endDate": "2025-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Udemy",
+      "url": null,
+      "area": "Mastering ARKit for iOS",
+      "studyType": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Udemy",
+      "url": null,
+      "area": "SwiftUI Masterclass 2023 - iOS App Development & Swift",
+      "studyType": "",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Udemy",
+      "url": null,
+      "area": "Combine",
+      "studyType": "",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "KeepCoding",
+      "url": null,
+      "area": "Full Stack Mobile",
+      "studyType": "",
+      "startDate": "2020-01-01",
+      "endDate": "2020-01-01",
+      "score": "9",
+      "courses": []
+    },
+    {
+      "institution": "KeepCoding",
+      "url": null,
+      "area": "Advanced Kotlin",
+      "studyType": "",
+      "startDate": "2019-01-01",
+      "endDate": "2019-01-01",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Udacity",
+      "url": null,
+      "area": "React, Redux, React-Native Nanodegree",
+      "studyType": "Nanodegree",
+      "startDate": "2017-01-01",
+      "endDate": "2017-01-01",
+      "score": "",
+      "courses": []
+    },
     {
       "institution": "Lázaro Cárdenas",
       "url": null,
