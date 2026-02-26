@@ -1,20 +1,26 @@
 ---
-import Layout from "@/layouts/Layout.astro"
+import Layout from "@/layouts/Layout.astro";
 
-import About from "@/components/sections/About.astro"
-import Education from "@/components/sections/Education.astro"
-import Experience from "@/components/sections/Experience.astro"
-import Hero from "@/components/sections/Hero.astro"
-import Projects from "@/components/sections/Projects.astro"
-import Skills from "@/components/sections/Skills.astro"
-import KeyboardManager from "@/components/KeyboardManager.astro"
+import About from "@/components/sections/About.astro";
+import Education from "@/components/sections/Education.astro";
+import Experience from "@/components/sections/Experience.astro";
+import Hero from "@/components/sections/Hero.astro";
+import Projects from "@/components/sections/Projects.astro";
+import Skills from "@/components/sections/Skills.astro";
+import KeyboardManager from "@/components/KeyboardManager.astro";
 
-import { basics } from "@cv"
-const { name, label } = basics
+import { setLanguage, getCV } from "@/i18n/config";
+import LangPicker from "@/i18n/LangPicker.astro";
+
+const locale = Astro.currentLocale;
+const { basics } = getCV(locale);
+const { name, label } = basics;
+const { getTranslation: t } = setLanguage(locale);
 ---
 
-<Layout title={`Portafolio de ${name} - ${label}`}>
+<Layout title={t("index.title", { name, label })}>
   <main>
+    <LangPicker />
     <Hero />
     <About />
     <Experience />
